@@ -1,0 +1,32 @@
+Volatile Elemental
+Spikeridged Steed
+Jeeves
+Drakkari Enchanter
+Netherspite Historian
+Arathi Weaponsmith
+Ancient Shieldbearer
+Bane of Doom
+Crowd Favorite
+Cutpurse
+Lava Burst
+Undercity Valiant
+Shadowform
+Gorillabot A-3
+Arcane Giant
+Spiked Hogrider
+Saboteur
+Shadow Rager
+Murloc Knight
+Evolved Kobold
+Shadow Word: Horror
+Corrupted Seer
+Keeper of the Grove
+Swipe
+Weasel Tunneler
+Infested Tauren
+Jade Idol
+Gluttonous Ooze
+Soul of the Forest
+Flame Imp
+Game Deck=45 : Game Deck:45: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:01Time taken:00:00:01
+

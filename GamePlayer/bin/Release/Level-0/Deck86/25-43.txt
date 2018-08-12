@@ -1,0 +1,111 @@
+Acidmaw*Dr. Boom*Excavated Evil*Hadronox*Starfall*Cleave*Tol'vir Stoneshaper*Rexxar*Gadgetzan Ferryman*Tol'vir Warden*Sleep with the Fishes*Cult Sorcerer*Mark of Y'Shaarj*Hobart Grapplehammer*Worgen Greaser*Blazecaller*Felfire Potion*Kabal Chemist*Tuskarr Jouster*Ancient Shieldbearer*Drakkari Enchanter*Keeper of the Grove*Explorer's Hat*Cairne Bloodhoof*Snake Trap*Drain Life*Elven Archer*Fire Plume's Heart*Demonwrath*Tar Lurker*
+Player1: Mulligan 26
+Player2: Mulligan 62,70,69
+Player1: PLAYING / Player2: PLAYING - ROUND 1 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'The Coin[72]'(SPELL)
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+EndTurnTask => [RehHausZuckFuchs]
+Player1: PLAYING / Player2: PLAYING - ROUND 2 - FitzVonGerald
+Hero[P1]: 30 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Spirit Claws[49]'(WEAPON)
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+Player1: PLAYING / Player2: PLAYING - ROUND 3 - FitzVonGerald
+Hero[P1]: 27 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Bloodmage Thalnos[66]'(MINION) to Pos[0]
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+Player1: PLAYING / Player2: PLAYING - ROUND 4 - FitzVonGerald
+Hero[P1]: 24 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+HeroPowerTask => [RehHausZuckFuchs] using 'Totemic Call[7]'
+MinionAttackTask => [RehHausZuckFuchs] 'Bloodmage Thalnos[66]'(MINION) attack 'Garrosh Hellscream[4]'
+HeroAttackTask => [RehHausZuckFuchs] 'Thrall[6]' attacks 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+Player1: PLAYING / Player2: PLAYING - ROUND 5 - FitzVonGerald
+Hero[P1]: 20 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Thing from Below[46]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Patches the Pirate[63]'(MINION) to Pos[0]
+MinionAttackTask => [RehHausZuckFuchs] 'Patches the Pirate[63]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Bloodmage Thalnos[66]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Searing Totem[77]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+Player1: PLAYING / Player2: PLAYING - ROUND 6 - FitzVonGerald
+Hero[P1]: 17 / Hero[P2]: 30
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Felfire Potion[26]'(SPELL)
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Jade Lightning[55]'(SPELL) 'Garrosh Hellscream[4]'
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[60]'(MINION) to Pos[0]
+EndTurnTask => [RehHausZuckFuchs]
+Player1: PLAYING / Player2: PLAYING - ROUND 7 - FitzVonGerald
+Hero[P1]: 8 / Hero[P2]: 25
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Dr. Boom[9]'(MINION) to Pos[0]
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+PlayCardTask => [RehHausZuckFuchs] play 'Azure Drake[68]'(MINION) to Pos[0]
+PlayCardTask => [RehHausZuckFuchs] play 'Flametongue Totem[61]'(MINION) to Pos[1]
+MinionAttackTask => [RehHausZuckFuchs] 'Flametongue Totem[60]'(MINION) attack 'Garrosh Hellscream[4]'
+MinionAttackTask => [RehHausZuckFuchs] 'Jade Golem[80]'(MINION) attack 'Garrosh Hellscream[4]'
+EndTurnTask => [RehHausZuckFuchs]
+Player1: PLAYING / Player2: PLAYING - ROUND 8 - FitzVonGerald
+Hero[P1]: 3 / Hero[P2]: 25
+
+* Calculating solutions *** Player 1 ***
+- Player 1 - <FitzVonGerald> ---------------------------
+PlayCardTask => [FitzVonGerald] play 'Snake Trap[36]'(SPELL)
+PlayCardTask => [FitzVonGerald] play 'Fire Plume's Heart[39]'(SPELL)
+PlayCardTask => [FitzVonGerald] play 'Worgen Greaser[24]'(MINION) to Pos[0]
+MinionAttackTask => [FitzVonGerald] 'Boom Bot[81]'(MINION) attack 'Flametongue Totem[60]'
+MinionAttackTask => [FitzVonGerald] 'Dr. Boom[9]'(MINION) attack 'Thrall[6]'
+EndTurnTask => [FitzVonGerald]
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+* Calculating solutions *** Player 2 ***
+- Player 2 - <RehHausZuckFuchs> ---------------------------
+MinionAttackTask => [RehHausZuckFuchs] 'Azure Drake[68]'(MINION) attack 'Garrosh Hellscream[4]'
+Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-19& turns:16

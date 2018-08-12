@@ -1,0 +1,12 @@
+Frozen Clone*Spiteful Smith*Argent Watchman*Thrall*Dart Trap*Flash Heal*Astral Communion*Power Word: Glory*Tortollan Shellraiser*Cairne Bloodhoof*Terrorscale Stalker*Shadow Madness*Polymorph*Madam Goya*Anomalus*Twisted Worgen*Crazed Alchemist*Stegodon*Forbidden Shaping*Stampede*Doomed Apprentice*Ancestral Spirit*Scourgelord Garrosh*Skycap'n Kragg*Infested Wolf*Embrace the Shadow*Molten Giant*Abominable Bowman*Ultimate Infestation*Spirit Lash*
+GPUID:1-1 Game Deck:3: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:21 and average time of game (hh:mm:ss) = 00:00:30Time taken:00:00:30
+
+Frozen Clone*Spiteful Smith*Argent Watchman*Thrall*Dart Trap*Flash Heal*Astral Communion*Power Word: Glory*Tortollan Shellraiser*Cairne Bloodhoof*Terrorscale Stalker*Shadow Madness*Polymorph*Madam Goya*Anomalus*Twisted Worgen*Crazed Alchemist*Stegodon*Forbidden Shaping*Stampede*Doomed Apprentice*Ancestral Spirit*Scourgelord Garrosh*Skycap'n Kragg*Infested Wolf*Embrace the Shadow*Molten Giant*Abominable Bowman*Ultimate Infestation*Spirit Lash*
+GPUID:1-1 Game Deck:3: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-23& turns:19 and average time of game (hh:mm:ss) = 00:00:32Time taken:00:00:32
+
+Frozen Clone*Spiteful Smith*Argent Watchman*Thrall*Dart Trap*Flash Heal*Astral Communion*Power Word: Glory*Tortollan Shellraiser*Cairne Bloodhoof*Terrorscale Stalker*Shadow Madness*Polymorph*Madam Goya*Anomalus*Twisted Worgen*Crazed Alchemist*Stegodon*Forbidden Shaping*Stampede*Doomed Apprentice*Ancestral Spirit*Scourgelord Garrosh*Skycap'n Kragg*Infested Wolf*Embrace the Shadow*Molten Giant*Abominable Bowman*Ultimate Infestation*Spirit Lash*
+GPUID:1-1 Game Deck:3: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-5& turns:27 and average time of game (hh:mm:ss) = 00:02:25Time taken:00:02:25
+
+Frozen Clone*Spiteful Smith*Argent Watchman*Thrall*Dart Trap*Flash Heal*Astral Communion*Power Word: Glory*Tortollan Shellraiser*Cairne Bloodhoof*Terrorscale Stalker*Shadow Madness*Polymorph*Madam Goya*Anomalus*Twisted Worgen*Crazed Alchemist*Stegodon*Forbidden Shaping*Stampede*Doomed Apprentice*Ancestral Spirit*Scourgelord Garrosh*Skycap'n Kragg*Infested Wolf*Embrace the Shadow*Molten Giant*Abominable Bowman*Ultimate Infestation*Spirit Lash*
+GPUID:1-1 Game Deck:3: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-28& turns:16 and average time of game (hh:mm:ss) = 00:00:13Time taken:00:00:13
+

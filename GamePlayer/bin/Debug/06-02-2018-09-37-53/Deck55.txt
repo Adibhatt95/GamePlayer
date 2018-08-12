@@ -1,0 +1,32 @@
+Hex
+Captain Greenskin
+Shadow Essence
+Igneous Elemental
+Druid of the Flame
+Stormcrack
+Knife Juggler
+Eerie Statue
+Ancient Brewmaster
+Windspeaker
+Argent Squire
+Eldritch Horror
+Corrupted Healbot
+Skeram Cultist
+Pyros
+Uther of the Ebon Blade
+Stubborn Gastropod
+Stubborn Gastropod
+Biteweed
+Fire Elemental
+Hobart Grapplehammer
+Snake Trap
+Master Jouster
+Spreading Madness
+Master Swordsmith
+Emperor Cobra
+Blastcrystal Potion
+Sinister Strike
+King Krush
+Twilight Whelp
+Game Deck=55 : Game Deck:55: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:02Time taken:00:00:02
+

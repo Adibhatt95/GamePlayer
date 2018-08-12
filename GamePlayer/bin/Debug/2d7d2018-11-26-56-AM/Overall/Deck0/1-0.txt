@@ -1,0 +1,12 @@
+Northshire Cleric*Malorne*Tentacles for Arms*Primalfin Totem*The Curator*Prince Keleseth*Elise the Trailblazer*Snake Trap*Moonfire*Power Overwhelming*Powershot*Lance Carrier*Selfless Hero*Emerald Reaver*Brawl*Curse of Rafaam*Anub'arak*Southsea Captain*Kvaldir Raider*Kooky Chemist*Tournament Medic*Primalfin Lookout*Grommash Hellscream*Mirage Caller*Razorpetal Volley*Polluted Hoarder*Beneath the Grounds*Pyroblast*Scourgelord Garrosh*Tauren Warrior*
+GPUID:1-0 Game Deck:0: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-22& turns:14 and average time of game (hh:mm:ss) = 00:00:08Time taken:00:00:08
+
+Northshire Cleric*Malorne*Tentacles for Arms*Primalfin Totem*The Curator*Prince Keleseth*Elise the Trailblazer*Snake Trap*Moonfire*Power Overwhelming*Powershot*Lance Carrier*Selfless Hero*Emerald Reaver*Brawl*Curse of Rafaam*Anub'arak*Southsea Captain*Kvaldir Raider*Kooky Chemist*Tournament Medic*Primalfin Lookout*Grommash Hellscream*Mirage Caller*Razorpetal Volley*Polluted Hoarder*Beneath the Grounds*Pyroblast*Scourgelord Garrosh*Tauren Warrior*
+GPUID:1-0 Game Deck:0: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-32& turns:12 and average time of game (hh:mm:ss) = 00:00:11Time taken:00:00:11
+
+Northshire Cleric*Malorne*Tentacles for Arms*Primalfin Totem*The Curator*Prince Keleseth*Elise the Trailblazer*Snake Trap*Moonfire*Power Overwhelming*Powershot*Lance Carrier*Selfless Hero*Emerald Reaver*Brawl*Curse of Rafaam*Anub'arak*Southsea Captain*Kvaldir Raider*Kooky Chemist*Tournament Medic*Primalfin Lookout*Grommash Hellscream*Mirage Caller*Razorpetal Volley*Polluted Hoarder*Beneath the Grounds*Pyroblast*Scourgelord Garrosh*Tauren Warrior*
+GPUID:1-0 Game Deck:0: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-25& turns:12 and average time of game (hh:mm:ss) = 00:00:12Time taken:00:00:12
+
+Northshire Cleric*Malorne*Tentacles for Arms*Primalfin Totem*The Curator*Prince Keleseth*Elise the Trailblazer*Snake Trap*Moonfire*Power Overwhelming*Powershot*Lance Carrier*Selfless Hero*Emerald Reaver*Brawl*Curse of Rafaam*Anub'arak*Southsea Captain*Kvaldir Raider*Kooky Chemist*Tournament Medic*Primalfin Lookout*Grommash Hellscream*Mirage Caller*Razorpetal Volley*Polluted Hoarder*Beneath the Grounds*Pyroblast*Scourgelord Garrosh*Tauren Warrior*
+GPUID:1-0 Game Deck:0: Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-28& turns:14 and average time of game (hh:mm:ss) = 00:00:07Time taken:00:00:07
+

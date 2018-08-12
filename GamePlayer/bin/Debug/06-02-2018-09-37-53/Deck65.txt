@@ -1,0 +1,32 @@
+Soulfire
+Mire Keeper
+Arcane Shot
+Void Terror
+Polymorph: Boar
+Druid of the Saber
+Nexus-Champion Saraad
+Armorsmith
+Shadow Strike
+Innervate
+Ancestral Knowledge
+Shattered Sun Cleric
+Raven Idol
+Equality
+Twilight Darkmender
+Deadly Fork
+Abominable Bowman
+Ancient of Blossoms
+Bite
+Molten Reflection
+Dragonling Mechanic
+Drakkari Defender
+Bluegill Warrior
+Venomstrike Trap
+Validated Doomsayer
+Finders Keepers
+Water Elemental
+Emerald Hive Queen
+Pterrordax Hatchling
+Cruel Taskmaster
+Game Deck=65 : Game Deck:65: Win rate =0% and average time of each round (hh:mm:ss) = 00:00:01Time taken:00:00:01
+
